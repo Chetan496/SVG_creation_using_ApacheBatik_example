@@ -1,0 +1,12 @@
+<appian-plugin name="svgui" key="com.svgui">
+
+	<plugin-info>
+		<description>svgui</description>
+		<vendor name="Appian Corporation" url="http://www.appian.com" />
+		<version>1.0.1</version>
+		<application-version min="6.1.0" />
+	</plugin-info>
+
+	<function key="getsvgdoc" class="com.svgui.SVGFunctions" />
+
+</appian-plugin>
